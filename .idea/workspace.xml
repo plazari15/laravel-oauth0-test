@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cbc8f96-0170-4ae5-8165-15948a82d527" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.env" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.env.example" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/0310653fe29c737ce5141ffb731f65b0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/03cefb3aa84486635f4aa74ff03b319c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/102b7a6db3f6e8c0e166ae9699d2ce9e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/3295590ccc0c6bc5ec60844cbe8489a8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/4b3e413e3f8026c4eae26e1c25681b62" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/62f0ed91f5c2beff07fd2c2195c77f25" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/84a0e3d1efcd0cf31608132e0eda6784" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/9197e56b0d6cb2c894fdc7d1450723f2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/97142261ea92682eaf8ce678a8c6024f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/a556f4cbfd790c0aac03a47d0c2f1264" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/abb0d270a7c2e0450fc0d24a6b4ff980" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/b296fd5f4b9e845411ed46bcb6def8c5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/bf4d076574c6298acc016d628b6f5e0b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/c2b37d8ab2b55d95e18a1490efdd80c8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/c65944ff48ce1e53d5089d1fdd258330" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpintel/index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Config.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Conn/Conn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Conn/Create.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Conn/Delete.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Conn/Read.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Conn/Update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Helpers/Check.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Helpers/LinkSeo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Helpers/Pager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Helpers/Session.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Helpers/Upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Helpers/View.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Models/Email.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Models/Link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Models/Login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_app/Models/Seo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax/busca_anuncios.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/deployment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/mercadolivre.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/Serviço de Coletas MercadoEnvios 2015.pptx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/api/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/background1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/background2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/background3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/busca.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/busca_anuncios.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/css/materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/css/materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/css/meu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/exit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/material-design-icons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/font/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/gera_conta.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/js/materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/js/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/logaster_No_2_small_size_145x75_pixels_(PNG).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/logout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/ml.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/.idea/deployment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/.idea/mercadolivre.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/api/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/css/materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/css/materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/css/meu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/material-design-icons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/font/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/js/materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/parallax-template/js/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/examples/example_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/examples/example_login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/examples/example_questions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/examples/example_search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/examples/example_search_paging.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/examples/example_search_paging_img_PMS.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/.bin/express" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/bin/express" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/http.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/https.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/request.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/router/collection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/router/methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/router/route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/view/partial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/view/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/connect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/http.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/https.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/bodyParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/compress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/csrf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/directory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/errorHandler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/favicon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/limit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/logger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/methodOverride.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/profiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/responseTime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session/cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session/memory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session/session.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/static.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/staticCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/vhost.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/directory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/error.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_attach.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_excel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_find.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_go.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_lightning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_paintbrush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_paste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_save.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_acrobat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_actionscript.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_cd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_code_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_coldfusion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_compressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_cplusplus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_csharp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_cup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_database.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_dvd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_excel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_find.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_flash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_freehand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_get.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_go.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_horizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_lightning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_magnify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_medal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_office.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_paint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_paintbrush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_paste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_php.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_picture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_powerpoint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_put.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_ruby.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_stack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_swoosh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_text_width.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_tux.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_vector.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_visualstudio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_width.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_word.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_world.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_wrench.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_zip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_word.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_world.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/TODO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/benchmark/bench-multipart-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/example/post.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/example/upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/incoming_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/multipart_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/querystring_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/example/dog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/example/event_emitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/lib/gently/gently.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/lib/gently/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/test/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/test/simple/test-gently.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/file/funkyfilename.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/file/plain.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/http/special-chars-in-filename/info.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/js/no-filename.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/js/special-chars-in-filename.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/multipart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/integration/test-fixtures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/integration/test-multipart-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/simple/test-file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/simple/test-incoming-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/simple/test-multipart-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/simple/test-querystring-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/system/test-multi-video-upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/unit/test-incoming-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/tool/record.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/types/mime.types" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/types/node.types" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/examples/pow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/examples/pow.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/examples/pow.js.rej" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/chmod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/clobber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/mkdirp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/perm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/perm_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/race.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/rel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/umask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/umask_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/lib/querystring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/test/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/node_modules/express/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/mockapi/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/src/base_meli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/src/meli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/tests/GeneralTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/DEPRECATED/tests/pause.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/Meli/meli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/examples/example_delete_question.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/examples/example_get.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/examples/example_list_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/examples/example_login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/examples/example_put_description.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/index.dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/js/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/coverage/meli.php.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/xunit-results.junit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/xunit-results.tap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/_reports/xunit-results.testdox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/meli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sdk-ml/tests/phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/.idea/deployment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/.idea/mercadolivre.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/Serviço de Coletas MercadoEnvios 2015.pptx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/api/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/css/materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/css/materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/css/meu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/material-design-icons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/font/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/images/capa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/js/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/js/materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/js/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/template/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/assets/template/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/background1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/background2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/background3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/busca.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/busca_anuncios.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/exit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/gera_conta.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/logaster_No_2_small_size_145x75_pixels_(PNG).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/logout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/ml.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/.idea/deployment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/.idea/mercadolivre.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/api/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/css/materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/css/materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/css/meu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/material-design-icons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/font/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/js/materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/parallax-template/js/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/examples/example_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/examples/example_login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/examples/example_questions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/examples/example_search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/examples/example_search_paging.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/examples/example_search_paging_img_PMS.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/.bin/express" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/bin/express" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/http.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/https.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/request.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/router/collection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/router/methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/router/route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/view/partial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/lib/view/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/connect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/http.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/https.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/bodyParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/compress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/csrf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/directory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/errorHandler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/favicon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/limit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/logger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/methodOverride.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/profiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/responseTime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session/cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session/memory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session/session.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/session/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/static.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/staticCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/middleware/vhost.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/directory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/error.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_attach.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_excel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_find.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_go.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_lightning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_paintbrush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_paste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_save.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_acrobat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_actionscript.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_cd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_code_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_coldfusion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_compressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_cplusplus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_csharp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_cup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_database.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_dvd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_excel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_find.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_flash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_freehand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_get.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_go.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_horizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_lightning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_magnify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_medal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_office.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_paint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_paintbrush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_paste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_php.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_picture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_powerpoint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_put.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_ruby.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_stack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_swoosh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_text_width.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_tux.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_vector.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_visualstudio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_width.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_word.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_world.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_wrench.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_white_zip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_word.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/icons/page_world.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/public/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/TODO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/benchmark/bench-multipart-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/example/post.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/example/upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/incoming_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/multipart_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/querystring_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/lib/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/example/dog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/example/event_emitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/lib/gently/gently.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/lib/gently/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/test/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/node-gently/test/simple/test-gently.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/file/funkyfilename.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/file/plain.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/http/special-chars-in-filename/info.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/js/no-filename.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/js/special-chars-in-filename.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/fixture/multipart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/integration/test-fixtures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/integration/test-multipart-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/simple/test-file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/simple/test-incoming-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/simple/test-multipart-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/simple/test-querystring-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/legacy/system/test-multi-video-upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/test/unit/test-incoming-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/node_modules/formidable/tool/record.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/connect/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/types/mime.types" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mime/types/node.types" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/examples/pow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/examples/pow.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/examples/pow.js.rej" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/chmod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/clobber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/mkdirp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/perm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/perm_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/race.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/rel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/umask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/mkdirp/test/umask_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/lib/querystring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/test/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/node_modules/qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/node_modules/express/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/mockapi/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/src/base_meli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/src/meli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/tests/GeneralTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/DEPRECATED/tests/pause.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/Meli/meli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/examples/example_delete_question.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/examples/example_get.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/examples/example_list_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/examples/example_login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/examples/example_put_description.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/index.dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/js/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/coverage/meli.php.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/xunit-results.junit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/xunit-results.tap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/_reports/xunit-results.testdox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/meli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/principal/sdk-ml/tests/phpunit.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="mercadolivre.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mercadolivre" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1378" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mercadolivre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cbc8f96-0170-4ae5-8165-15948a82d527" name="Default" comment="" />
+      <created>1471816229641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1471816229641</updated>
+      <workItem from="1471816231607" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
